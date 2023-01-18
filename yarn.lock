@@ -1412,10 +1412,10 @@ cbor-web@7.0.4:
   resolved "https://registry.npmjs.org/cbor-web/-/cbor-web-7.0.4.tgz"
   integrity sha512-gx3YFNcsrBmEcknYua+lMpO1zDgNqJjVG7RAKb4qYtzoXXnJIT22nIaCqDbmhkmWOevxu2HCji/QD04IpSnfyw==
 
-cbor@7.0.4:
-  version "7.0.4"
-  resolved "https://registry.npmjs.org/cbor/-/cbor-7.0.4.tgz"
-  integrity sha512-9hBTn31l7+9qteBso7+HPp2R5ytqFRBd98fHK4ZTpvrba8V7CuoOsEL0S6vf7+11gubMTd3RW97lOgMTl5SNfg==
+cbor@7.0.6:
+  version "7.0.6"
+  resolved "https://registry.yarnpkg.com/cbor/-/cbor-7.0.6.tgz#ce47d1d5f946760f199f848dbbcfe762cf492fd6"
+  integrity sha512-rgt2RFogHGDLFU5r0kSfyeBc+de55DwYHP73KxKsQxsR5b0CYuQPH6AnJaXByiohpLdjQqj/K0SFcOV+dXdhSA==
   dependencies:
     "@cto.af/textdecoder" "^0.0.0"
     nofilter "^2.0.3"
